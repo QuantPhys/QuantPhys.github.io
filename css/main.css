@@ -2750,8 +2750,8 @@ hr {
   }
 }
 body {
-  background: url("/images/grey.jpg");
-  background-size: 100%,100%;
+  background: url("/images/grey-y.jpg");
+  background-size: cover;
 }
 .important{
   font-size: 26px;
